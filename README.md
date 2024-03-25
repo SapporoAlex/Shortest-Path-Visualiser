@@ -4,8 +4,8 @@ This project provides a Tkinter GUI application that visualizes a randomly gener
 <img src="https://github.com/SapporoAlex/Shortest-Path-Visualiser/blob/main/1.jpg" width="500" height="500">
 
 ## Dependencies
-Tkinter (Standard library)
-Random (Standard library)
+- [Tkinter](https://docs.python.org/3/library/tkinter.html) (Standard library)
+- [Random](https://docs.python.org/3/library/random.html) (Standard library)
 
 ## Installation
 Clone the repository to your local machine:
