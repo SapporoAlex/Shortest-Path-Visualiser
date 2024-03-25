@@ -17,7 +17,7 @@ git clone https://github.com/SapporoAlex/Shortest-Path-Visualiser.git
 Navigate to the project directory:
 
 ```bash
-cd shortest-path-visualization
+cd shortest-path-visualiser
 ```
 
 Usage
